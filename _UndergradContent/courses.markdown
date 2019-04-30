@@ -2,7 +2,8 @@
 layout: page
 title:  "Courses Offered by the CIS Department"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 110
 ---
 

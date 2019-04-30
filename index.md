@@ -2,10 +2,17 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
----
+title: Advice to Students
+layout: root
 
-Computer and Information Science  
+---
+## [Advice to Undergraduate Students](UndergradContent)
+
+## [Advice to Graduate Students](GradContent)
+
+
+<hr/>
+Department of Computer and Information Science  
 Brooklyn College of the City University of New York  
 2109 Ingersoll Hall  
 Brooklyn, NY 11210  
@@ -17,8 +24,5 @@ Chairperson    | Prof. Y. Langsam  |   2109N  |   951-5657
 Graduate Deputy Chair |    Prof. J. Cox    |     2112cN |    951-5000 x2047
 Undergraduate Deputy Chair (CLAS) |    Prof. M. Augenstein  |   2122N |    951-5000 x2041
 Undergraduate Deputy Chair (SGS)  |     Prof. J. Thurm |    2109N  |   951-5657
-
-
-**Java version: for students starting CISC courses in or after Fall 2017.**
 
 

@@ -39,6 +39,7 @@
     border: 1px solid #eee;
     border-left-width: 5px;
     border-radius: 3px;
+    page-break-inside: avoid;
 }
 
 table th, table td {

@@ -2,7 +2,8 @@
 layout: page
 title:  "Honors at Graduation"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 120
 ---
 In order to receive departmental honors at graduation, a student must be recommended by the department, must have an index of at least 3.50, and must have completed either an honors course or an honors project. Although it is necessary to take an honors course or project to receive honors at graduation, honors are not guaranteed. The department must vote to award departmental honors. If awarded, departmental honors appears as a notation on your diploma.

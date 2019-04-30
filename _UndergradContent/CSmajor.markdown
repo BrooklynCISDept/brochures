@@ -2,7 +2,8 @@
 layout: page
 title:  "The Major in Computer Science (HEGIS code 0701)"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 30
 ---
 

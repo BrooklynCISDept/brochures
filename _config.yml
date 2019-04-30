@@ -36,8 +36,10 @@ repository: https://github.com/BrooklynCISDept/brochures
 collections:
   UndergradContent:
       output: true
+      title: "Advice to Undergraduate Students"
   GradContent:
       output: true
+      title: "Advice to Graduate Students"
 
 # Build settings
 markdown: kramdown

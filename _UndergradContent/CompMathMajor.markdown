@@ -2,7 +2,8 @@
 layout: page
 title: "The Major in Computational Mathematics (HEGIS code 1701)"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 90
 ---
 The Computational Mathematics program, offered jointly by the Department of Mathematics and the Department of Computer and Information Science, prepares the student for a wide range of future careers and opportunities for graduate study. The Computational Option enables students to apply mathematical and computational skills to the physical, biological, social and behavioral sciences. It is designed for the education of applied mathematicians who plan to enter careers in scientific computing, or who wish to enroll in graduate programs in computationally oriented applied mathematics or in computer science.   The Theoretical Option is designed for those interested in the more abstract parts of computer science, and for those interested in college teaching and research.

@@ -2,7 +2,8 @@
 layout: page
 title:  "The Minor in Multimedia Computing"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 70
 ---
 A student with a major in CIS or another field may take a minor in Multimedia Computing. Any minor at BC requires completing 12 advanced elective credits with an average of C- or better. The minor requires 21-23 credits and includes the following courses.

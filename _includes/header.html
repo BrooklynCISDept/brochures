@@ -1,8 +1,15 @@
+{% if jekyll.environment != "print" %}
 <header class="site-header" role="banner">
 
 <div class="wrapper">
   Brooklyn College Department of Computer and Information Science<br/>
-  <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  {% if page.collection == "GradContent" %}
+    {%- assign colTitle = "Advice to Graduate Students" -%}
+  {% else %}
+    {%- assign colTitle = "Advice to Undergraduate Students" -%}
+  {%- endif -%}
+  <a class="site-title" rel="author" href="{{ "/" | append: page.collection | relative_url }}">{{ colTitle }}</a>
   </div>
   {% include navbar.html %}
 </header>
+{% endif %}

@@ -2,7 +2,8 @@
 layout: page
 title:  "Answers to Common Questions about CIS"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 100
 ---
 **I've heard a lot of conflicting opinions about the job and career prospects in computing. I need accurate information. Are jobs available, and does computing make sense as a lifetime career? Where can I learn more about this subject?**

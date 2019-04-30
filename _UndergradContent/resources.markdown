@@ -2,7 +2,8 @@
 layout: page
 title:  "Internet Resources"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 150
 ---
 The CIS Department's Web page is <http://www.brooklyn.cuny.edu/pub/departments/cis/>. Information about department programs is available at this site, as are links to the Web pages of various CIS faculty members. 

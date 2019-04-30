@@ -1,0 +1,321 @@
+- number: 7100X
+  title: "Foundations of System Programming"
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+
+- number: "7110X"
+  title: Compiler Construction
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in assembly language, and a course in data structures. Not open to students who have taken an undergraduate course in compilers
+
+- number: "*7120X"
+  title: Programming Languages and Compilers
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7110X or a course in compilers.
+
+- number: "*7122X"
+  title: Programming Language Design
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7110X or a course in compilers.
+
+- number: "*7124X"
+  title: Object-Oriented Programming
+  credit: (3 hours; 3 credits)
+  prerequisite: "One of the following: CISC 7110X, 7120X, 7122X, 7310X, or 7312X."
+
+- number: "7200X"
+  title: Analysis of Algorithms
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures and a course in discrete structures. This course is open to students who have taken an undergraduate course in analysis of algorithms.
+
+- number: "*7210X"
+  title: Graph and Network Algorithms
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7200X.
+
+- number: "*7212X"
+  title: Parallel Algorithms
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7200X or a course in analysis of algorithms.
+
+- number: "*7214X"
+  title:  Algorithms and Complexity
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7200X or a course in  analysis of algorithms.
+
+- number: "7220X"
+  title:  Computability and Unsolvability
+  credit: (3 hours lecture, 2 hours lab; 4 credits)
+  prerequisite: CISC 7221X or a course in theoretical computer science.
+
+- number: "7221X"
+  title:  Theoretical Computer Science
+  credit: (3 hours lecture)
+  prerequisite: A course in discrete structures. Not open to students who have completed a course in theoretical computer science.
+
+- number: "7224X"
+  title:  Formal Languages and Automata Theory
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7221X or a course in theoretical computer science.
+
+- number: "*7226X "
+  title:  Information and Computation
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7200X or CISC 7214X; and a course in probability.
+
+- number: "*7228X"
+  title:  Quantum Computing
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7200 and a course in calculus
+
+- number: "*7230X"
+  title:  Cryptosystems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7220X or 7224X.
+
+- number: "7240X"
+  title:  Numerical Methods
+  credit: (3 hours; 3 credits)
+  prerequisite: A course in linear algebra and an elementary course in differential equations.
+
+- number: "7300X"
+  title:  Computer Systems and Architecture
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in computer organization or architecture and a course in data structures. Not open to students who have taken CISC 7310X.
+
+- number: "7302X"
+  title:  Computer Architecture
+  credit: (3 hours; 3 credits)
+  prerequisite: an undergraduate course in computer organization
+
+- number: "7310X"
+  title:  Operating Systems I
+  credit: (3 hours; 3 credits)
+  prerequisite: A course in data structures and a course in computer organization. Not open to students who have taken CISC 7300X or a course in operating systems.
+
+- number: "*7312X"
+  title: Operating Systems II
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7310X or a course in operating systems.
+
+- number: "*7320X"
+  title:  Computer Security
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in calculus; CISC 7310
+
+
+- number: "7330X"
+  title:  Teleprocessing Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7300X or 7310X or a course in operating systems; CISC 7302X or a course in computer organization; and a course in probability and statistics.
+
+- number: "*7332X"
+  title:  Local Area Networks
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7300X or 7310X or a course in operating systems; CISC 7302X or a course in computer organization; and a course in probability and statistics.
+
+- number: "*7334X"
+  title:  Computer Communication Networks
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7300X or 7310X or a course in operating systems; CISC 7302X or a course in computer organization; and a course in probability and statistics.
+
+- number: "*7340X"
+  title:  Parallel and Distributed Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7100X and either 7310X or a course in operating systems.
+
+- number: "*7342X"
+  title:  Programming Parallel Processors
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7312X and 7340X.
+
+- number: "*7350X"
+  title:  Distributed System Administration
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7310X or a course in operating systems or permission of the chair.
+
+
+- number: "*7352X"
+  title:  Performance Evaluation of Computer Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7310X or a course in operating systems; two terms of calculus; and a course in probability and statistics.
+
+- number: "*7354X"
+  title:  Topics in Systems Simulation
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures; and a course in probability and statistics.
+
+
+- number: "7360X"
+  title:  Microprocessors
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in computer organization. Not open to students who have taken an undergraduate course in microprocessors.
+  comment: 24 hours lecture plus conference; 21 hours laboratory plus independent work; 3 credits
+
+- number: "7362X"
+  title:  Advanced Microcomputer Applications
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in microcomputer applications.
+
+- number: "7400X"
+  title:  Foundations of Cognitive Science
+  credit: (3 hours; 3 credits)
+  prerequisite: A course in probability and statistics; and knowledge of a high-level programming language such as C, Pascal, PL/I, or LISP.
+
+- number: "7410X"
+  title:  Artificial Intelligence I
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+  comment: Not open to students who have taken an undergraduate course in artificial intelligence.
+
+- number: "*7412X"
+  title:  Artificial Intelligence II
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7410X or a course in artificial intelligence.
+
+- number: "*7414X"
+  title:  Expert Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7410X or a course in artificial intelligence.
+
+- number: "7420X"
+  title:  Logic in Computer Science
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in discrete structures and a course in data structures.
+
+- number: "7422X"
+  title:  Game Theory and Social Choice
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in discrete structures.
+  comment: The course will concentrate on game theory and the theory of elections.
+
+- number: "*7430X"
+  title:  Natural Language Processing
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+
+- number: "*7440X"
+  title:  Pattern Recognition and Neural Networks
+  credit: (3 hours; 3 credits)
+  prerequisite: one year of elementary calculus; a course in probability theory; and CISC 7410X or a course in artificial intelligence.
+
+- number: "*7442X"
+  title:  Robot Vision
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7440X or CISC 7650X
+
+- number: "7450X"
+  title:  Computer Applications in Health Sciences
+  credit: (45 hours; 3 credits)
+  prerequisite: one 7000-level course in health and nutrition sciences and one 7000-level course in computer and information science.
+
+- number: "7500X"
+  title:  Introduction to Management Information Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in advanced programming techniques.
+
+- number: "7510X"
+  title:  Database Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: knowledge of a database management system
+  comment: Not open to students who have taken an undergraduate course in database systems.
+
+- number: "*7512X"
+  title:  Advanced Database Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7510X or its equivalent.
+
+- number: "7520X"
+  title:  Requirements Modeling for Information Science
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+
+- number: "7522X"
+  title:  Systems Analysis and Design
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+
+- number: "*7530X"
+  title:  IT Project Management
+  credit: (3 hours lecture; 3 credits)
+  prerequisite: CISC 7500X.
+
+- number: "7532X"
+  title:  Information Systems Management
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7500X.
+
+- number: "7534X"
+  title:  Information Systems Planning and Policy
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7500X.
+
+- number: "*7540X"
+  title:  Software Methodology
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7510X and two courses chosen from among CISC 7522X, 7532X, and 7534X.
+
+- number: "*7610X"
+  title:  Multimedia Databases
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7510X or a course in database systems.
+
+- number: "7620X"
+  title:  "Computer Graphics: Software System Design"
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+
+- number: "*7622X"
+  title:  Algorithms for Computer Graphics
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7620X or a course in computer graphics.
+
+- number: "*7630X"
+  title:  Multimedia Computer Systems
+  credit: (3 hours; 3 credits)
+  prerequisite: "One of the following: CISC 7310X, 7302X, 7334X, 7510X, 7620X, 7640X, 7650X."
+
+- number: "7640X"
+  title:  Multimedia Presentations
+  credit: (3 hours; 3 credits)
+  prerequisite: a course in data structures.
+
+- number: "7642G"
+  title:  Advanced Digital Art
+  credit: (3 hours; 3 credits)
+  prerequisite: Matriculation for the M.A. in teaching art or matriculation for the M.F.A., or CISC 7620X or CISC 7640X.
+
+- number: "*7650X"
+  title:  Digital Signal Processing
+  credit: (3 hours; 3 credits)
+  prerequisite: two terms of calculus; and CISC 7200X or a course in analysis of algorithms.
+
+- number: "7700G"
+  title:  Introduction to Data Science
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7510X.
+
+- number: "7900X, 7902X"
+  title:  Research Project I, II
+  credit: (Minimum of 90 hours of independent work each term; 3 credits)
+  prerequisite: "For 7900X: Permission of the graduate deputy chair. For 7902X: CISC 7900X."
+
+- number: "7940X, 7942X"
+  title:  Seminar in Computer Science I, II
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7940X.
+
+- number: "*7950X, *7952X"
+  title:  Advanced Seminar in Computer Science I, II
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 7950X
+
+- number: "7980G"
+  title:  Health Informatics Internship
+  credit: (150 hours conference and independent work; 3 credits)
+  prerequisite: Completion of at least 21 credits of required graduate courses.
+
+- number: "7990G, 7992G, 7994G"
+  title:  Thesis Research
+  credit: (3 hours; 2 credits each term)
+  prerequisite: "Permission of the graduate deputy chair. For information, see Section VI, part 2: Thesis."

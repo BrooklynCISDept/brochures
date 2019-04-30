@@ -2,7 +2,8 @@
 layout: page
 title:  "Staff and Other Faculty"
 date:   2018-08-10 17:05:04 -0400
-categories: undergrad content
+category: content
+tag: undergrad
 sequence: 170
 ---
 ## Faculty from Other Departments     
