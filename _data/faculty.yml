@@ -40,19 +40,7 @@
   room: 2112cN 
   phone: 951-5000 x2047
   
-  {% comment %}
-  - first: Scott
-  last: Dexter
-  spec: Free and open-source software, technology and culture, digital humanities.
-  email: sdexter@sci.brooklyn.cuny.edu
-  room: 0113N
-  phone: 951-5000 x2048
-  
-{% endcomment %}
-
-
-
-- first: Tzipora 
+ - first: Tzipora 
   last: Halevi
   spec: Security, privacy, human-computer interaction, embedded systems, Internet of things, signal processing.
   email: halevi@sci.brooklyn.cuny.edu
