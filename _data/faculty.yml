@@ -39,13 +39,18 @@
   email: cox@sci.brooklyn.cuny.edu
   room: 2112cN 
   phone: 951-5000 x2047
-
-- first: Scott
+  
+  {% comment %}
+  - first: Scott
   last: Dexter
   spec: Free and open-source software, technology and culture, digital humanities.
   email: sdexter@sci.brooklyn.cuny.edu
   room: 0113N
   phone: 951-5000 x2048
+  
+{% endcomment %}
+
+
 
 - first: Tzipora 
   last: Halevi
