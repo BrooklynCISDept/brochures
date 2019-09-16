@@ -22,7 +22,7 @@ sequence: 170
 | Lawrence Goetz       |      goetz@sci.brooklyn.cuny.edu   |     951-5000 x2050 |
 | Bridget Sheridan      |       BSheridan@brooklyn.cuny.edu |       951-5000 x2057 |
 | Elena Hintze           |      EHintze@brooklyn.cuny.edu   |     951-5657 |
-| Andre Perez             |    andre.perez@brooklyn.cuny.edu |       951-5657 |
+| Li De Zhu              |      LiDe.Zhu@brooklyn.cuny.edu  |     951-5657  |
 | Prince David Pierce      |       princedavidpierce@brooklyn.cuny.edu |   951-5657 |
 
 
