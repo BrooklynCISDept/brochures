@@ -56,7 +56,7 @@
 
 - first: Devorah
   last: Kletenik
-  spec: Algorithms; Boolean functions; machine learning/computational learning theory. 
+  spec: Algorithms; Boolean functions; machine learning/computational learning theory; serious games and games for education
   email: kletenik@sci.brooklyn.cuny.edu
   room: 5316N
   phone: 951-5000 x1502
@@ -138,12 +138,12 @@
   room: 143NE
   phone: 951-5000 x2664
 
-- first: Paula 
-  last: Whitlock    
-  spec: Programming languages and compilers. Computer simulations, especially Monte Carlo methods; development of random number generators, especially or parallel computing systems.
-  email: whitlock@sci.brooklyn.cuny.edu
-  room: 1212N 
-  phone: 951-5000 x2069    
+#- first: Paula 
+#  last: Whitlock    
+#  spec: Programming languages and compilers. Computer simulations, especially Monte Carlo methods; development of random number generators, especially or parallel computing systems.
+#  email: whitlock@sci.brooklyn.cuny.edu
+ # room: 1212N 
+ # phone: 951-5000 x2069    
 
 - first: Noson 
   last: Yanofsky
