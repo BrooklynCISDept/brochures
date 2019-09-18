@@ -197,6 +197,16 @@
   credit: (3 hours; 3 credits)
   prerequisite: CISC 3115, 3130, and either 3310 or permission of the chair.
   comment: Not open to students who have completed CISC 3110.
+  
+- number: "3144"
+  title:  Modern JavaScript
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3140.
+  
+- number: "3146"
+  title:  Engineering Mobile Software Applications
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130.
 
 - number: "3150"
   title:  Object-Oriented Programming
@@ -299,6 +309,11 @@
   title:  Principles of Robotics
   credit: (3 hours; 3 credits)
   prerequisite: CISC 2210 and CISC 3130.
+  
+- number: "3440"
+  title:  Machine Learning
+  credit: (3 hours; 3 credits)
+  prerequisite: CISC 3130 or 3225, MATH 2501 or 3501 or CISC 2210. 
 
 - number: "3610"
   title:  Introduction to Multimedia Programming
@@ -329,6 +344,11 @@
   title:  Game Design
   credit: (3 hours; 3 credits)
   prerequisite: CISC 3130, and MATH 1011 or 1201.
+  
+- number: "3667"
+  title:  Game Design and Development
+  credit: (4 hours; 4 credits)
+  prerequisite: CISC 3130.
 
 - number: "3800"
   title:  Advanced Personal Computer Techniques for Business Applications
