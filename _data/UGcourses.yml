@@ -10,12 +10,12 @@
 - number: "*1002"
   title: The Outer Limits of Reasoning
   credit: (3 hours; 3 credits)
-  comment: Not open to students who are enrolled in or have completed CO R C 3310
+  comment: Not open to students who are enrolled in or have completed CORC 3310
 
 - number: "*1003" 
   title: Exploring Robotics
   credit: (3 hours; 3 credits)
-  comment: Not open to students who are enrolled in or have completed CO R C 3303
+  comment: Not open to students who are enrolled in or have completed CORC 3303
 
 - number: "*1030" 
   title: The Internet
@@ -47,7 +47,7 @@
 - number: "*1110"
   title:  Introduction to Computing Using C++
   credit: (3 hours lecture, 2 hours lab; 4 credits)
-  comment: Not open to students who are enrolled in or have completed CIS 1.10 or 1.20 or 16 or C ISC 1180 or 3110.
+  comment: Not open to students who are enrolled in or have completed CIS 1.10 or 1.20 or 16 or CISC 1180 or 3110.
 
 - number: "*1115"
   title:  Introduction to Computing Using Java
@@ -89,7 +89,7 @@
 - number: "*1400"
   title:  Elementary Robotics
   credit: (3 hours; 3 credits)
-  prerequisite: CORC 1311 or MATH 1011 or 1026 or 1201 or permission of the chairperson.
+  prerequisite: CORC 1311 or MATH 1311 or 1026 or 1201 or permission of the chairperson.
 
 - number: "*1410"
   title:  Philosophy and Artificial Intelligence
@@ -100,7 +100,7 @@
 - number: "*1530"
   title:  Electronic Commerce
   credit: (3 hours; 3 credits)
-  prerequisite: CORC 1312 or Core Studies 5 or 5.1 or any course in computing.
+  prerequisite: CISC 1050 or CISC 1110 or CISC 1115 or any course in computing.
 
 - number: "*1580W"
   title:  Seminar in Computer-Assisted Management Games
@@ -138,7 +138,7 @@
   title:  Operations Management
   credit: (3 hours; 3 credits)
   prerequisite: CORC 1312 or Core Studies 5.1 or CIS 100 or 1050 or 1110 or 1115; CISC 2210 or BUSN 3400 or ECON 3400 or MATH 2501 or MATH 3501.
-  comment: Not open to students who are enrolled in or have completed M AT H 3606 or Econom ics 31.4. 
+  comment: Not open to students who are enrolled in or have completed MATH 3606 or Economics 31.4. 
 
 - number: "2532"
   title:  Information Systems Project Management
@@ -148,7 +148,7 @@
 - number: "2590"
   title:  Foundations of Business Analytics
   credit: (3 hours; 3 credits)
-  prerequisite: Business 3400, Econom ics 3400, Mathem atics 1501, Psychology 3400, or an equivalent statistics course with a grade of C or better; and Computer and Information Science 1050 or proficiency with spreadsheets.
+  prerequisite: Business 3400, Economics 3400, Mathematics 1501, Psychology 3400, or an equivalent statistics course with a grade of C or better; and Computer and Information Science 1050 or proficiency with spreadsheets.
 
 - number: "2810W"
   title:  Macromolecular Structure and Bioinformatics
@@ -163,7 +163,7 @@
 - number: "2830"
   title:  Introduction to Natural Language Processing
   credit: (3 hours; 3 credits) 
-  prerequisite: "CISC 1110 or 1115. Pre- or co-requisite: CISC 2210 and Linguistics (LING) 2001."
+  prerequisite: CISC 1110 or 1115. Pre- or co-requisite: CISC 2210 and Linguistics (LING) 2001.
 
 - number: "3110"
   title:  Advanced Programming Techniques
