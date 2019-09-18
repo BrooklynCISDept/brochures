@@ -163,7 +163,7 @@
 - number: "2830"
   title:  Introduction to Natural Language Processing
   credit: (3 hours; 3 credits) 
-  prerequisite: CISC 1110 or 1115. Pre- or co-requisite: CISC 2210 and Linguistics (LING) 2001.
+  prerequisite: "CISC 1110 or 1115. Pre- or co-requisite: CISC 2210 and Linguistics (LING) 2001."
 
 - number: "3110"
   title:  Advanced Programming Techniques
