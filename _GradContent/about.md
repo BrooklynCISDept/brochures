@@ -12,7 +12,7 @@ This brochure has been updated to the new course numbers effective September, 20
 ---
 
 #### Brochure Preparation:
-Scott Dexter
+Scott Dexter and Devorah Kletenik
 
 #### with assistance from:
 - Youstina Samuel
@@ -24,4 +24,4 @@ Scott Dexter
 
 
 #### Effective Date:
-September 2018
+January 2020
