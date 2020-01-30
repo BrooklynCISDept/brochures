@@ -336,7 +336,7 @@
 - number: "3630"
   title:  Multimedia Computing
   credit: (3 hours; 3 credits)
-  prerequisite: CISC 1030 or 1050; and CISC 3800 or 3130.
+  prerequisite: CISC 3130.
 
 - number: "3650"
   title:  Human-Computer Interaction
@@ -366,7 +366,7 @@
 - number: "3810"
   title:  Database Systems
   credit: (3 hours; 3 credits)
-  prerequisite: CIS 21 or CISC 3130; and CISC 1050 or permission of the chairperson.
+  prerequisite: CISC 3130.
 
 - number: "3820"
   title:  Introduction to Modeling and Simulation
