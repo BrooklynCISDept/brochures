@@ -69,7 +69,7 @@
   credit: (2 hours; 2 credits) 
   prerequisite: CISC 3130
 
-- number: "*1170"
+- number: "*1170
   title:  Java for Programmers
   credit: (2 hours; 2 credits) 
   prerequisite: an introductory programming course in a language other than Java, and permission of the chair.
@@ -80,6 +80,10 @@
   credit: (2 hours; 2 credits)
   prerequisite: An introductory programming course in a language other than C++ or C.  
   comment: Not open to students who are enrolled in or have completed CISC 1110 or 3110.
+  
+- number: "*1215"
+  title: Introduction to Programming Using Python
+  credit: (2 hours lecture, 2 hours lab; 3 credits)
 
 - number: "*1341"
   title:  Assembly Language Programming for Microcomputers [INACTIVE]
@@ -132,12 +136,12 @@
 - number: "2210"
   title:  Introduction to Discrete Structures
   credit: (3 hours; 3 credits)
-  prerequisite: CIS 1.10 or 1.20 or 1110 or 1115; and MATH 1011 or 2.92 or assignment to MATH 3.20 or 1201 or 4.10 by the Department of Mathematics.
+  prerequisite: CIS 1.10 or 1.20 or 1110 or 1115; and MATH 1011 or 1012 or 2.92 or assignment to MATH 3.20 or 1201 or 4.10 by the Department of Mathematics.
 
 - number: "2531"
   title:  Operations Management
   credit: (3 hours; 3 credits)
-  prerequisite: CORC 1312 or Core Studies 5.1 or CIS 100 or 1050 or 1110 or 1115; CISC 2210 or BUSN 3400 or ECON 3400 or MATH 2501 or MATH 3501.
+  prerequisite: CORC 1312 or Core Studies 5.1 or CIS 100 or 1050 or 1110 or 1115 or 1170 or 1215; CISC 2210 or BUSN 3400 or ECON 3400 or MATH 2501 or MATH 3501.
   comment: Not open to students who are enrolled in or have completed MATH 3606 or Economics 31.4. 
 
 - number: "2532"
@@ -227,6 +231,10 @@
   title:  Analysis of Algorithms
   credit: (3 hours; 3 credits)
   prerequisite: CISC 2210; CIS 21 or CISC 3130; MATH 3.20 or 1201 or 4.10.
+  
+- number: "3225"
+  title: Data Tools and Algorithms
+  prerequsite: CISC 1215; CISC 2210 or MATH 2001
 
 - number: "3230"
   title:  Theoretical Computer Science
