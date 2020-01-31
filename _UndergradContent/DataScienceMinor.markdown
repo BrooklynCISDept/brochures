@@ -6,8 +6,7 @@ category: content
 tag: undergrad
 sequence: 85
 ---
-The CIS Department offers a minor in Data Science as an interdisciplinary minor together with the Mathematics department. The minor requires 18-19 credits. Courses taken to satisfy major requirements may also be used to satisfy requirements
-of the Minor in Data Science.
+The CIS Department offers a minor in Data Science as an interdisciplinary minor together with the Mathematics department. The minor requires 18-19 credits. 
 
 Prerequisite requirements for the minor:
 MATH 1201, 1206, 2101; CISC 1215
@@ -37,3 +36,7 @@ One additional course, chosen from among the following:
   
 </ul>
 </div>
+
+Courses taken to satisfy major requirements may also be used to satisfy requirements
+of the Minor in Data Science.
+
