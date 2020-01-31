@@ -25,15 +25,15 @@ Either MATH 2001 and MATH 3501, or CISC 2210 and MATH 2501.
 
 One additional course, chosen from among the following:
 <ul>
-<li> BUSN 2200 or 4400W 
-<li> CISC 1410 or 3130
-<li> FINC 3377
-<li> ECON 2200 or 3370 or 4422 or 4400W
-<li> MATH 3601 or 4101 or 4501
-<li> PHIL 3203 or 3204 or 3423
-<li> POLS 3014W or 3421 or 3423
-<li> PSYC 3510 or 3520 or 3530 or 3580 or 4400
-<li> SOCY 3506 or 3604
+<li> BUSN 2200 or 4400W  </li>
+<li> CISC 1410 or 3130 </li>
+<li> FINC 3377 </li>
+<li> ECON 2200 or 3370 or 4422 or 4400W </li>
+<li> MATH 3601 or 4101 or 4501 </li>
+<li> PHIL 3203 or 3204 or 3423 </li>
+<li> POLS 3014W or 3421 or 3423 </li>
+<li> PSYC 3510 or 3520 or 3530 or 3580 or 4400 </li>
+<li> SOCY 3506 or 3604 </li>
   
 </ul>
 </div>
