@@ -194,7 +194,7 @@
 - number: "3140"
   title:  Design and Implementation of Large-Scale Web Applications
   credit: (3 hours; 3 credits)
-  prerequisite: CISC 3130; and either 3115 or 3120.
+  prerequisite: CISC 3130; and either 1115, 1170 or 3115.
 
 - number: "3142"
   title:  Programming Paradigms in C++
@@ -215,12 +215,12 @@
 - number: "3150"
   title:  Object-Oriented Programming
   credit: (3 hours; 3 credits)
-  prerequisite: CISC 3120 and 3130.
+  prerequisite: CISC 3130.
 
 - number: "3160"
   title:  Programming Languages
   credit: (4 hours; 4 credits)
-  prerequisite: CISC 3142 or 3150. 
+  prerequisite: CISC 3142. 
 
 - number: "3171"
   title:  Introduction to Software Engineering
