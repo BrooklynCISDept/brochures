@@ -7,7 +7,7 @@ tag: undergrad
 sequence: 60
 ---
 
-Students can officially minor in CS by taking 12 credits in CIS electives numbered at least 2000, including at least one of 3130 or 3310. At least 6 of the credits presented for the minor must be completed at Brooklyn College. The 12 advanced elective credits must be completed with an average of C or better.
+Students can officially minor in CS by taking 12 credits in CIS electives whose course numbers are above 2000, including at least one of 3130 or 3310. At least 6 of the credits presented for the minor must be completed at Brooklyn College. The 12 advanced elective credits must be completed with an average of C or better.
 
 Three possible minors are the following:
 
