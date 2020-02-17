@@ -19,7 +19,7 @@ For information on potential careers in computing, please see the [ACM Careers w
 
 <div class="callout">
 <h4>Advice to Transfer Students</h4>
-Students who plan to transfer to Brooklyn College and major in CIS are advised to take courses in Java, C++, or C,  precalculus or calculus, and other courses that are equivalent to courses in the Brooklyn College CIS majors. Transfer students who receive advanced elective credit for courses at other institutions must nevertheless take an additional 24 advanced elective credits *at Brooklyn College*.
+Students who plan to transfer to Brooklyn College and major in CIS are advised to take courses in Java, C++, or C,  precalculus or calculus, and other courses that are equivalent to courses in the Brooklyn College CIS majors. Transfer students who receive advanced elective credit for courses at other institutions must nevertheless take an additional 24 advanced elective credits (numbered CISC 2000 or higher) *at Brooklyn College*.
 
 Students in a community college who wish to transfer to Brooklyn College are
 strongly advised to obtain an A.S. or A.A. degree, rather than an A.A.S. degree. Students coming to Brooklyn College with an A.A. or A.S. degree will be exempt from nine lower-tier Core courses at Brooklyn, but students with an A.A.S. degree will likely have to take a good number of these courses.
