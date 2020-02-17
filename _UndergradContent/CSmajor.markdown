@@ -60,7 +60,7 @@ In the schedules below, elective means any course in CIS numbered from 3000 to 4
 Semester 1:    CISC 1115, and MATH 1011 or 1201  
 Semester 2:     CISC 2210, CISC 3115, and MATH 1201 or 1206  
 Semester 3:    CISC 2820W, CISC 3130  
-Semester 4:    CISC 3310, and MATH 1206 or 2501   
+Semester 4:    CISC 3305 or 3310, and MATH 1206 or 2501   
 Semester 5:    CISC 3142, and either CISC 3220 or CISC 3230  
 Semester 6:    CISC 3150, CISC 3320, and MATH 2501 (if necessary)  
 Semester 7:     CISC 4900 or 5001, and one elective  
@@ -74,7 +74,7 @@ For students who decide to major in CIS in their second year, we recommend the f
 <h4>Three  Year Schedule</h4>
 Semester 3:    CISC 1115, MATH 1011 or 1201  
 Semester 4:    CISC 2210, CISC 3115, MATH 1201 or 1206  
-Semester 5:    CISC 2820W, CISC 3130, CISC 3310, MATH 1206 or 2501  
+Semester 5:    CISC 2820W, CISC 3130, CISC 3305 or 3310, MATH 1206 or 2501  
 Semester 6:    CISC 3220 or 3230; CISC 3320 or 3150, MATH 2501 if needed  
 Semester 7:     CISC 3142, CISC 3320 or 3150, and one elective  
 Semester 8:    CISC 4900 or 5001, and one elective  
