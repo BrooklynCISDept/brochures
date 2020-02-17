@@ -15,7 +15,7 @@ This major is designed for students who have a general interest in computers and
 
 CISC 1115 or 1170
 
-CISC 2210, 3115, 3130, 3140, 3142, 3150, 3305 or 3310, 3320
+CISC 2210, 3115, 3130, 3140, 3142, 3305 or 3310, 3320
 
 CISC 3220 or 3230
 
