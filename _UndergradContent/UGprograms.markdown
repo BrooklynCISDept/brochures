@@ -13,13 +13,15 @@ The Department of Computer and Information Science (CIS) offers a very rich unde
 <div class="callout">
 <h4>Undergraduate Programs</h4>
 - a major in Computer Science, leading to the B.S. degree
-- a major in Information Systems, leading to the B.S. degree
+- a joint major with the Department of Business in Information Systems, leading to the B.S. degree
 - a major in Multimedia Computing, leading to the B.S. degree
+- a joint major with the Department of Mathematics in Computational Mathematics, leading to the B.S. degree.
+- a minor in Data Science
 - a minor in Computer and Information Science
 - a minor in Multimedia Computing
 - a minor in Parallel and Distributed Computing
 - a minor in Cognitive Science
-- a joint major with the Department of Mathematics in Computational Mathematics, leading to the B.S. degree.
+- 
 </div>
 
 The undergraduate offering at Brooklyn College is quite extensive and includes some courses that are offered only at the graduate level in many other schools. There is a very strong emphasis on the discipline of programming, with substantial practical assignments in many of the courses. The programming language emphasized throughout the undergraduate program is Java, and a course in C++ is required. A number of other languages may be taken as electives
